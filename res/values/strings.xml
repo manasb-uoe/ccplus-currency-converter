@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CCPlus</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string-array name="names">
+        <item>United States Dollar</item>
+        <item>Euro</item>
+        <item>Indian Rupee</item>
+        <item>British Pound Sterling</item>
+        <item>Australian Dollar</item>
+        <item>Canadian Dollar</item>
+        <item>Swiss Franc</item>
+        <item>Chinese Yen</item>
+        <item>Japanese Yen</item>
+        <item>Hungarian Forint</item>
+        <item>Swedish krona</item>
+        <item>Hong Kong Dollar</item>
+    </string-array>
+    <string-array name="codes">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>INR</item>
+        <item>GBP</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>JPY</item>
+        <item>HUF</item>
+        <item>SEK</item>
+        <item>HKD</item>
+    </string-array>
+    <string-array name="symbols">
+        <item>$</item>
+        <item>€</item>
+        <item>₹</item>
+        <item>£</item>
+        <item>A$</item>
+        <item>C$</item>
+        <item>Fr</item>
+        <item>¥</item>
+        <item>¥</item>
+        <item>Ft</item>
+        <item>kr</item>
+        <item>HK$</item>
+    </string-array>
+
+</resources>
