@@ -1,1 +1,1 @@
-Here are some screenshots: http://imgur.com/a/z1Cjv#3
+Screenshots: http://imgur.com/a/ItP43#0
